@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://haindateoxice.github.io/sitemap.html
+Sitemap: https://haindateoxice.github.io/app/sitemap.html
+Sitemap: https://haindateoxice.github.io/assets/sitemap.html
+Sitemap: https://haindateoxice.github.io/css/sitemap.html
+Sitemap: https://haindateoxice.github.io/includes/sitemap.html
+Sitemap: https://haindateoxice.github.io/item/sitemap.html
+Sitemap: https://haindateoxice.github.io/src/sitemap.html
